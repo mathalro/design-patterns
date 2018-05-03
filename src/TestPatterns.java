@@ -1,6 +1,10 @@
 import singleton.Logger;
 import factoryMethod.*;
+
+import com.sun.xml.internal.bind.v2.runtime.Name;
+
 import composite.*;
+import strategy.*;
 
 public class TestPatterns {
 
@@ -43,6 +47,29 @@ public class TestPatterns {
 		System.out.println(pack.price());
 		pack.compose(disc);
 		System.out.println(pack.price());
+		
+		// Test strategy
+		System.out.println("\nStrategy test");
+		class Pessoa {
+			String name;
+			NameFormatter formatter = new CompleteName();
+			
+			public Pessoa(String name) {
+				this.name = name;
+			}
+			
+			public void defineFormatter(NameFormatter formatter) {
+				this.formatter = formatter;
+			}
+			
+			public String getName() {
+				return formatter.format(name);
+			}
+		}
+		Pessoa p = new Pessoa("Matheus de Almeida Rosa");
+		System.out.println(p.getName());
+		p.defineFormatter(new FirstName());
+		System.out.println(p.getName());
 	}
 
 }
