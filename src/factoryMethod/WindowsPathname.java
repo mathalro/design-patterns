@@ -1,10 +1,10 @@
 package factoryMethod;
 
 /**
- * @author Matheus Rosa
- * 
  * Concrete Product: implements the product interface
  *
+ * @author Matheus Rosa
+ * 
  */
 public class WindowsPathname extends Pathname {
 
