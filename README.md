@@ -28,6 +28,6 @@ This repository was created in order to practice design patters in a object orie
  * Memento
  * Observer
  * State
- * Strategy
+ * Strategy ✅
  * Visitor
 	
