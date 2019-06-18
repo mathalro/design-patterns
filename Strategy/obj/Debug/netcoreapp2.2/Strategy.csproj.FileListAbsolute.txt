@@ -1,0 +1,11 @@
+C:\Users\mathe\Projects\design-patterns\Strategy\bin\Debug\netcoreapp2.2\Strategy.deps.json
+C:\Users\mathe\Projects\design-patterns\Strategy\bin\Debug\netcoreapp2.2\Strategy.runtimeconfig.json
+C:\Users\mathe\Projects\design-patterns\Strategy\bin\Debug\netcoreapp2.2\Strategy.runtimeconfig.dev.json
+c:\Users\mathe\Projects\design-patterns\Strategy\bin\Debug\netcoreapp2.2\Strategy.dll
+c:\Users\mathe\Projects\design-patterns\Strategy\bin\Debug\netcoreapp2.2\Strategy.pdb
+c:\Users\mathe\Projects\design-patterns\Strategy\obj\Debug\netcoreapp2.2\Strategy.csprojAssemblyReference.cache
+c:\Users\mathe\Projects\design-patterns\Strategy\obj\Debug\netcoreapp2.2\Strategy.csproj.CoreCompileInputs.cache
+c:\Users\mathe\Projects\design-patterns\Strategy\obj\Debug\netcoreapp2.2\Strategy.AssemblyInfoInputs.cache
+c:\Users\mathe\Projects\design-patterns\Strategy\obj\Debug\netcoreapp2.2\Strategy.AssemblyInfo.cs
+c:\Users\mathe\Projects\design-patterns\Strategy\obj\Debug\netcoreapp2.2\Strategy.dll
+c:\Users\mathe\Projects\design-patterns\Strategy\obj\Debug\netcoreapp2.2\Strategy.pdb
