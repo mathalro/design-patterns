@@ -1,0 +1,11 @@
+C:\Users\mathe\Projects\design-patterns\StrategyInveting\bin\Debug\netcoreapp2.2\StrategyInveting.deps.json
+C:\Users\mathe\Projects\design-patterns\StrategyInveting\bin\Debug\netcoreapp2.2\StrategyInveting.runtimeconfig.json
+C:\Users\mathe\Projects\design-patterns\StrategyInveting\bin\Debug\netcoreapp2.2\StrategyInveting.runtimeconfig.dev.json
+c:\Users\mathe\Projects\design-patterns\StrategyInveting\bin\Debug\netcoreapp2.2\StrategyInveting.dll
+c:\Users\mathe\Projects\design-patterns\StrategyInveting\bin\Debug\netcoreapp2.2\StrategyInveting.pdb
+c:\Users\mathe\Projects\design-patterns\StrategyInveting\obj\Debug\netcoreapp2.2\StrategyInveting.csprojAssemblyReference.cache
+c:\Users\mathe\Projects\design-patterns\StrategyInveting\obj\Debug\netcoreapp2.2\StrategyInveting.csproj.CoreCompileInputs.cache
+c:\Users\mathe\Projects\design-patterns\StrategyInveting\obj\Debug\netcoreapp2.2\StrategyInveting.AssemblyInfoInputs.cache
+c:\Users\mathe\Projects\design-patterns\StrategyInveting\obj\Debug\netcoreapp2.2\StrategyInveting.AssemblyInfo.cs
+c:\Users\mathe\Projects\design-patterns\StrategyInveting\obj\Debug\netcoreapp2.2\StrategyInveting.dll
+c:\Users\mathe\Projects\design-patterns\StrategyInveting\obj\Debug\netcoreapp2.2\StrategyInveting.pdb
