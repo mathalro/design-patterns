@@ -21,7 +21,7 @@ This repository was created in order to practice design patters in a object orie
 ## Behavioral
  * Interpreter
  * Template Method
- * Chain of Responsibility
+ * Chain of Responsibility ✅
  * Command
  * Iterator
  * Mediator
