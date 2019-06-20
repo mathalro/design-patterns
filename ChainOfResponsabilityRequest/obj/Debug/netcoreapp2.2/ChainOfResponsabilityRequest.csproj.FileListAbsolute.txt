@@ -1,0 +1,11 @@
+C:\Users\mathe\Projects\design-patterns\ChainOfResponsabilityRequest\bin\Debug\netcoreapp2.2\ChainOfResponsabilityRequest.deps.json
+C:\Users\mathe\Projects\design-patterns\ChainOfResponsabilityRequest\bin\Debug\netcoreapp2.2\ChainOfResponsabilityRequest.runtimeconfig.json
+C:\Users\mathe\Projects\design-patterns\ChainOfResponsabilityRequest\bin\Debug\netcoreapp2.2\ChainOfResponsabilityRequest.runtimeconfig.dev.json
+c:\Users\mathe\Projects\design-patterns\ChainOfResponsabilityRequest\bin\Debug\netcoreapp2.2\ChainOfResponsabilityRequest.dll
+c:\Users\mathe\Projects\design-patterns\ChainOfResponsabilityRequest\bin\Debug\netcoreapp2.2\ChainOfResponsabilityRequest.pdb
+c:\Users\mathe\Projects\design-patterns\ChainOfResponsabilityRequest\obj\Debug\netcoreapp2.2\ChainOfResponsabilityRequest.csprojAssemblyReference.cache
+c:\Users\mathe\Projects\design-patterns\ChainOfResponsabilityRequest\obj\Debug\netcoreapp2.2\ChainOfResponsabilityRequest.csproj.CoreCompileInputs.cache
+c:\Users\mathe\Projects\design-patterns\ChainOfResponsabilityRequest\obj\Debug\netcoreapp2.2\ChainOfResponsabilityRequest.AssemblyInfoInputs.cache
+c:\Users\mathe\Projects\design-patterns\ChainOfResponsabilityRequest\obj\Debug\netcoreapp2.2\ChainOfResponsabilityRequest.AssemblyInfo.cs
+c:\Users\mathe\Projects\design-patterns\ChainOfResponsabilityRequest\obj\Debug\netcoreapp2.2\ChainOfResponsabilityRequest.dll
+c:\Users\mathe\Projects\design-patterns\ChainOfResponsabilityRequest\obj\Debug\netcoreapp2.2\ChainOfResponsabilityRequest.pdb
